@@ -120,6 +120,8 @@ The Power BI dashboard includes:
 * Bike Stand Distribution by Location
 * Geographical Map (Latitude & Longitude)
 
+https://github.com/sarantrichy05-oss/BIKE-SHARING-STATION-PERFORMANCE-AND-UTILIZATION-ANALYSIS/blob/aed577ff9ab31232585bc03761bcb26c72043fe8/DASHBOARD.pdf  
+
 ---
 
 ##  Key Insights
